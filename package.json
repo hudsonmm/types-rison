@@ -1,0 +1,30 @@
+{ 
+  "author": {
+    "name": "Andrei Kurosh",
+    "email": "https://github.com/impworks"
+  },
+  "dependencies": {},
+  "description": "TypeScript definitions for Rison",
+  "devDependencies": {},
+  "directories": {},
+  "license": "MIT",
+  "main": "",
+  "maintainers": [
+    {
+      "name": "types",
+      "email": "ts-npm-types@microsoft.com"
+    }
+  ],
+  "name": "@types/rison",
+  "optionalDependencies": {},
+  "peerDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+  },
+  "scripts": {},
+  "typesPublisherContentHash": "4775f3c06e1a304330ca4ab62200d5a5c0d24a815629db43600399b20b618676",
+  "typings": "index.d.ts",
+  "version": "0.0.5"
+}
