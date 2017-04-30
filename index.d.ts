@@ -4,7 +4,7 @@
 // Definitions: https://github.com/borisyankov/DefinitelyTyped
 
 declare var rison: IRison;
-
+export = rison;
 interface IRison {
     /**
      * Rison-encodes a javascript structure.
